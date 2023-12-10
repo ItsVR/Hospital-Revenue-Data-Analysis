@@ -24,4 +24,4 @@ To explore the project locally, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/ItsVR/Hospital-Revenue-Data-Analysis
+   git clone https://github.com/ItsVR/Hospital-Revenue-Data-Analysis.git
